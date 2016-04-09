@@ -1,4 +1,7 @@
 
 public class clasedeprueba {
-			//comentario para ver que subio a git
+			public static void main (String[] args) {
+				System.out.println("EAAAA");
+				System.out.println("MUNDO");
+			}
 }
